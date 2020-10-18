@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Ioannis Sporidis",
+    "occupation": "Full-Stack Developer",
+    "description": "with a background in education and passionate about creating user-friendly web experiences",
+    "image": "profilepic.png",
+    "bio": "Graduate of a Full-Stack Web Development program from the University of Pennsylvania which granted me newly obtained skills in both front end and back-end web designs (HTML, CSS frameworks, JavaScript frameworks etc.). Had the opportunity to apply these skills in various distance collaborative projects and thus experienced a remote based work environment. The combination of my technical expertise and emotional intelligence make me a unique team member who would add value and efficiency to your team.",
+    "contactmessage": "EMAIL FORM CURRENTLY UNAVAILABE. Please use regular web email to contact me.",
+    "email": "ioannis.sporidis@gmail.com",
+    "phone": "484-222-9045",
+    "address": {
+      "street": "1203 W 7 st",
+      "city": "Wilmington",
+      "state": "DE",
+      "zip": "19805"
+    },
+    "website": "http://www.ioannis-sporidis.com",
+    "resumedownload": "http://ioannis-sporidis.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/@dmjohnspor",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ioannis-sporidis-foster/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dmjohnspor",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "gmail",
+        "url": "http://gmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm familiar with the following skills: Git, HTML5, CSS3, CSS frameworks (Bootstrap, Material UI, Tailwind), Javascript, jQuery, Node.js, MySQL, MongoDB, Express, Handlebars, React.js",
+    "education": [
+      {
+        "school": "University of Pennsylvania",
+        "degree": "LPS Coding Bootcamp",
+        "graduated": "August 2020",
+        "description": "An intensive 24-week-long bootcamp dedicated to designing and building web applications. Skills leaned include: Git, HTML5, CSS3 and CSS frameworks (Bootstrap, Bulma, Tailwind etc.),JavaScript, jQuery, Firebase, Node.js, MySQL, MongoDB, Express, Handlebars,React.js."
+      },
+      {
+        "school": "University of Seville, Spain",
+        "degree": "Masters in Counseling",
+        "graduated": "July 2008",
+        "description": "Post graduate studies with a focus on counseling and in particular family mediation and conflict resolution with minors."
+      }
+    ],
+    "work": [
+      {
+        "company": "Code for Philly",
+        "title": "Junir React Developer",
+        "years": "September 2020 - Present",
+        "description": "A fellowship sponsored by Comcast, working alongside senior developers on various projects that benefit charitable and non profit organization in the Philadelphia area. Responsibilites include ReactJs development, testing and error handling."
+      },
+      {
+        "company": "Various school districts in DE, MD and NJ",
+        "title": "World Languages Instructor",
+        "years": "August 2010 - Present",
+        "description": "Teaching Spanish and Modern Greek to students of elemendary and middle school age. Transferable skills include: strong organizational skills, working as part of a team and a client oriented mentality."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID activities",
+        "category": "Battle quarantine boredom! Search for books or recipes and fill all this free time of yours!",
+        "image": "covid_activities.jpg",
+        "url": "https://jbenj-upenn.github.io/CovidActivities/"
+      },
+      {
+        "title": "Quiz Generator",
+        "category": "(demo version) Generate, save and share your own multiple choice quizes",
+        "image": "quiz_generator.jpg",
+        "url": "https://project-2-quiz-generator.herokuapp.com/"
+      },
+      {
+        "title": "UpTrade",
+        "category": "Digital video game code exchanging platform. Trade your duplicate steam codes with others.",
+        "image": "uptrade.png",
+        "url": "https://uptrade-app.herokuapp.com/"
+      },
+      {
+        "title": "Portfolio Website",
+        "category": "My personal online portfolio. You are here right now!",
+        "image": "portfolio.png",
+        "url": "http://www.ioannis-sporidis.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
