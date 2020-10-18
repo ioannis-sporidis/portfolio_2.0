@@ -182,7 +182,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #e2711d;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -202,9 +202,9 @@ ul#nav li.current a { color: #fe6928; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 240px;
+   height: 240px;
+   /* border-radius: 100%; */
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -231,7 +231,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #e9ecef;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -246,7 +246,7 @@ ul#nav li.current a { color: #fe6928; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #f3722c;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -422,7 +422,7 @@ ul#nav li.current a { color: #fe6928; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #f3722c;
 }
 
 /* Portfolio Content */
@@ -826,6 +826,8 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: red;
+   font-weight: bold;
 }
 #contact .header-col { padding-top: 6px; }
 
