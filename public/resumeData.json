@@ -29,7 +29,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/dmjohnspor",
+        "url": "https://github.com/ioannis-sporidis",
         "className": "fa fa-github"
       },
       {
@@ -42,6 +42,12 @@
   "resume": {
     "skillmessage": "I'm familiar with the following skills: Git, HTML5, CSS3, CSS frameworks (Bootstrap, Material UI, Tailwind), Javascript, jQuery, Node.js, MySQL, MongoDB, Express, Handlebars, React.js",
     "education": [
+      {
+        "school": "University of the People",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "August 2023",
+        "description": "Graduate studie in Computer Science from the University of the People. Online degree with an anticipated date of completion at 2023."
+      },
       {
         "school": "University of Pennsylvania",
         "degree": "LPS Coding Bootcamp",
@@ -58,7 +64,7 @@
     "work": [
       {
         "company": "Code for Philly",
-        "title": "Junir React Developer",
+        "title": "Junior React Developer",
         "years": "September 2020 - Present",
         "description": "A fellowship sponsored by Comcast, working alongside senior developers on various projects that benefit charitable and non profit organization in the Philadelphia area. Responsibilites include ReactJs development, testing and error handling."
       },
@@ -105,26 +111,94 @@
       {
         "title": "COVID activities",
         "category": "Battle quarantine boredom! Search for books or recipes and fill all this free time of yours!",
-        "image": "covid_activities.jpg",
+        "image": "covid_activities.png",
         "url": "https://jbenj-upenn.github.io/CovidActivities/"
       },
       {
         "title": "Quiz Generator",
         "category": "(demo version) Generate, save and share your own multiple choice quizes",
-        "image": "quiz_generator.jpg",
+        "image": "quiz_generator.png",
         "url": "https://project-2-quiz-generator.herokuapp.com/"
       },
       {
-        "title": "UpTrade",
-        "category": "Digital video game code exchanging platform. Trade your duplicate steam codes with others.",
-        "image": "uptrade.png",
-        "url": "https://uptrade-app.herokuapp.com/"
+        "title": "Pokedex App",
+        "category": "Search for Pokemon and save your favourites (complete app still in development).",
+        "image": "pokedex_app.png",
+        "url": "https://ioannis-sporidis.github.io/pokedex_app/"
       },
       {
-        "title": "Portfolio Website",
-        "category": "My personal online portfolio. You are here right now!",
-        "image": "portfolio.png",
-        "url": "http://www.ioannis-sporidis.com"
+        "title": "Tours App",
+        "category": "Display information about various tours. Remove the ones you don't want.",
+        "image": "tours.png",
+        "url": "https://ioannis-sporidis.github.io/tours_app/"
+      },
+      {
+        "title": "Grocery Buddy",
+        "category": "Create grocery lists. Add, edit or remove items from your list.",
+        "image": "grocery_buddy.png",
+        "url": "https://ioannis-sporidis.github.io/grocery_buddy/"
+      },
+      {
+        "title": "Color Generator",
+        "category": "Select a color and get its shades and tints.",
+        "image": "color_generator.png",
+        "url": "https://ioannis-sporidis.github.io/color_generator/"
+      },
+      {
+        "title": "Lorem Ipsum Generator",
+        "category": "Generate up to 8 paragraphs of modern lorem ipsum text.",
+        "image": "lorem_ipsum_generator.png",
+        "url": "https://ioannis-sporidis.github.io/lorem_ipsum_generator/"
+      },
+      {
+        "title": "Restaurant Menu",
+        "category": "Demo of an online restaurant menu. Filter items by their category.",
+        "image": "restaurant_menu.png",
+        "url": "https://ioannis-sporidis.github.io/restaurant_menu/"
+      },
+      {
+        "title": "Expense Tracker",
+        "category": "Keep track of your expenses. Add items and see them by year.",
+        "image": "expense_tracker.png",
+        "url": "https://ioannis-sporidis.github.io/expense_tracker/"
+      }
+    ],
+    "components": [
+      {
+        "title": "Bubble Menus",
+        "category": "Reproduction of the stripe.com web page showcasing the use of dynamically resized menus.",
+        "image": "component_bubble_menus.png",
+        "url": "https://ioannis-sporidis.github.io/bubble_menus/"
+      },
+      {
+        "title": "Sidebar and Modal",
+        "category": "Reusable sidebar and modal components",
+        "image": "component_sidebar_modal.png",
+        "url": "https://ioannis-sporidis.github.io/sidebar_modal/"
+      },
+      {
+        "title": "NavBar",
+        "category": "Navbar component with responsive design.",
+        "image": "component_navbar.png",
+        "url": "https://ioannis-sporidis.github.io/navbar/"
+      },
+      {
+        "title": "Slider",
+        "category": "Slider that automatically shows comments.",
+        "image": "component_slider.png",
+        "url": "https://ioannis-sporidis.github.io/slider/"
+      },
+      {
+        "title": "Tabs",
+        "category": "Tabs component used on a resume.",
+        "image": "component_tabs.png",
+        "url": "https://ioannis-sporidis.github.io/tabs/"
+      },
+      {
+        "title": "Accordion",
+        "category": "Accordion menu to display or hide additional information.",
+        "image": "component_accordion.png",
+        "url": "https://ioannis-sporidis.github.io/accordion/"
       }
     ]
   },
