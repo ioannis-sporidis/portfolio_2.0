@@ -199,6 +199,12 @@
         "category": "Accordion menu to display or hide additional information.",
         "image": "component_accordion.png",
         "url": "https://ioannis-sporidis.github.io/accordion/"
+      },
+      {
+        "title": "Shopping Cart",
+        "category": "Shopping cart simulation. Add, remove items and empty your cart.",
+        "image": "component_shopping_cart.png",
+        "url": "https://ioannis-sporidis.github.io/shopping_cart/"
       }
     ]
   },
