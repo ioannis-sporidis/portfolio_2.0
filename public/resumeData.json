@@ -167,6 +167,12 @@
         "category": "Write text in markdown and see a preview of it rendered in HTML.",
         "image": "markdown_preview.png",
         "url": "https://ioannis-sporidis.github.io/markdown_preview/"
+      },
+      {
+        "title": "The Cocktail Database",
+        "category": "Search and view your favorite cocktails. Add to favorites functionality coming soon.",
+        "image": "cocktail_db.png",
+        "url": "https://ioannis-sporidis.github.io/cocktails_db/"
       }
     ],
     "components": [
