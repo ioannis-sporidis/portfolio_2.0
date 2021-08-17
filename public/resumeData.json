@@ -161,6 +161,12 @@
         "category": "Keep track of your expenses. Add items and see them by year.",
         "image": "expense_tracker.png",
         "url": "https://ioannis-sporidis.github.io/expense_tracker/"
+      },
+      {
+        "title": "Markdown Preview",
+        "category": "Write text in markdown and see a preview of it rendered in HTML.",
+        "image": "markdown_preview.png",
+        "url": "https://ioannis-sporidis.github.io/markdown_preview/"
       }
     ],
     "components": [
@@ -205,12 +211,6 @@
         "category": "Shopping cart simulation. Add, remove items and empty your cart.",
         "image": "component_shopping_cart.png",
         "url": "https://ioannis-sporidis.github.io/shopping_cart/"
-      },
-      {
-        "title": "Markdown Preview",
-        "category": "Write text in markdown and see a preview of it rendered in HTML.",
-        "image": "markdown_preview.png",
-        "url": "https://ioannis-sporidis.github.io/markdown_preview/"
       }
     ]
   },
