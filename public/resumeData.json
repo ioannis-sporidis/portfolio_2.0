@@ -173,6 +173,12 @@
         "category": "Search and view your favorite cocktails. Add to favorites functionality coming soon.",
         "image": "cocktail_db.png",
         "url": "https://ioannis-sporidis.github.io/cocktails_db/"
+      },
+      {
+        "title": "Random User Generator",
+        "category": "Click to see a random user. Hover over the icons to see their data.",
+        "image": "random_user.png",
+        "url": "https://ioannis-sporidis.github.io/random_user/"
       }
     ],
     "components": [
