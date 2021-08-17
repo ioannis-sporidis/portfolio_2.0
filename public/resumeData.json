@@ -223,6 +223,12 @@
         "category": "Shopping cart simulation. Add, remove items and empty your cart.",
         "image": "component_shopping_cart.png",
         "url": "https://ioannis-sporidis.github.io/shopping_cart/"
+      },
+      {
+        "title": "Pagination",
+        "category": "Pagination component.",
+        "image": "component_pagination.png",
+        "url": "https://ioannis-sporidis.github.io/pagination/"
       }
     ]
   },
