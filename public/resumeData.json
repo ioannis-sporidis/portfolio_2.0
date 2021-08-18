@@ -179,6 +179,12 @@
         "category": "Click to see a random user. Hover over the icons to see their data.",
         "image": "random_user.png",
         "url": "https://ioannis-sporidis.github.io/random_user/"
+      },
+      {
+        "title": "Stock Photos App",
+        "category": "Search and view stock images. App explores manually implemented infinite scrolling functionality (no npm package).",
+        "image": "stock_photos.png",
+        "url": "https://ioannis-sporidis.github.io/stock_photos/"
       }
     ],
     "components": [
