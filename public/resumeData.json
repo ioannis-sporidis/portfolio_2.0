@@ -109,18 +109,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "COVID activities",
-        "category": "Battle quarantine boredom! Search for books or recipes and fill all this free time of yours!",
-        "image": "covid_activities.png",
-        "url": "https://jbenj-upenn.github.io/CovidActivities/"
-      },
-      {
-        "title": "Quiz Generator",
-        "category": "(demo version) Generate, save and share your own multiple choice quizes",
-        "image": "quiz_generator.png",
-        "url": "https://project-2-quiz-generator.herokuapp.com/"
-      },
-      {
         "title": "Pokedex App",
         "category": "Search for Pokemon and save your favourites (complete app still in development).",
         "image": "pokedex_app.png",
@@ -185,6 +173,18 @@
         "category": "Search and view stock images. App explores manually implemented infinite scrolling functionality (no npm package).",
         "image": "stock_photos.png",
         "url": "https://ioannis-sporidis.github.io/stock_photos/"
+      },
+      {
+        "title": "COVID activities",
+        "category": "Battle quarantine boredom! Search for books or recipes and fill all this free time of yours!",
+        "image": "covid_activities.png",
+        "url": "https://jbenj-upenn.github.io/CovidActivities/"
+      },
+      {
+        "title": "Quiz Generator",
+        "category": "(demo version) Generate, save and share your own multiple choice quizes",
+        "image": "quiz_generator.png",
+        "url": "https://project-2-quiz-generator.herokuapp.com/"
       }
     ],
     "components": [
