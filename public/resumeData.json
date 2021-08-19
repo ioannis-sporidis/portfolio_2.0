@@ -235,6 +235,12 @@
         "category": "Pagination component.",
         "image": "component_pagination.png",
         "url": "https://ioannis-sporidis.github.io/pagination/"
+      },
+      {
+        "title": "Dark Mode",
+        "category": "Dark Mode component. Inspired by Dan Abramov's blog \"Overreacted\"",
+        "image": "component_dark_mode.png",
+        "url": "https://ioannis-sporidis.github.io/dark_mode/"
       }
     ]
   },
