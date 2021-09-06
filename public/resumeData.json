@@ -185,6 +185,12 @@
         "category": "(demo version) Generate, save and share your own multiple choice quizes",
         "image": "quiz_generator.png",
         "url": "https://project-2-quiz-generator.herokuapp.com/"
+      },
+      {
+        "title": "Hacker News",
+        "category": "Search and view articles from the Hacker News API.",
+        "image": "hacker_news.png",
+        "url": "https://ioannis-sporidis.github.io/hacker_news/"
       }
     ],
     "components": [
