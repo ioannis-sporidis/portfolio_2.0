@@ -43,12 +43,6 @@
     "skillmessage": "I'm familiar with the following skills: Git, HTML5, CSS3, CSS frameworks (Bootstrap, Material UI, Tailwind), Javascript, jQuery, Node.js, MySQL, MongoDB, Express, Handlebars, React.js",
     "education": [
       {
-        "school": "University of the People",
-        "degree": "Bachelor's in Computer Science",
-        "graduated": "August 2023",
-        "description": "Graduate studie in Computer Science from the University of the People. Online degree with an anticipated date of completion at 2023."
-      },
-      {
         "school": "University of Pennsylvania",
         "degree": "LPS Coding Bootcamp",
         "graduated": "August 2020",
@@ -112,13 +106,19 @@
         "title": "Pokedex App",
         "category": "Search for Pokemon and save your favourites (complete app still in development).",
         "image": "pokedex_app.png",
-        "url": "https://ioannis-sporidis.github.io/pokedex_app/"
+        "url": "https://ioannis-sporidis.github.io/ra-pokedex/"
       },
       {
-        "title": "Tours App",
+        "title": "Quiz App",
+        "category": "Select category, difficulty and number of questions and take a fun multiple choice quiz.",
+        "image": "quiz_db.png",
+        "url": "https://ioannis-sporidis.github.io/ra-quiz/"
+      },
+      {
+        "title": "Tours Landing Page",
         "category": "Display information about various tours. Remove the ones you don't want.",
         "image": "tours.png",
-        "url": "https://ioannis-sporidis.github.io/tours_app/"
+        "url": "https://ioannis-sporidis.github.io/ra-tours-landing-page/"
       },
       {
         "title": "Grocery Buddy",
@@ -154,7 +154,7 @@
         "title": "Markdown Preview",
         "category": "Write text in markdown and see a preview of it rendered in HTML.",
         "image": "markdown_preview.png",
-        "url": "https://ioannis-sporidis.github.io/markdown_preview/"
+        "url": "https://ioannis-sporidis.github.io/ra-markdown-preview/"
       },
       {
         "title": "The Cocktail Database",
@@ -181,16 +181,10 @@
         "url": "https://jbenj-upenn.github.io/CovidActivities/"
       },
       {
-        "title": "Quiz Generator",
-        "category": "(demo version) Generate, save and share your own multiple choice quizes",
-        "image": "quiz_generator.png",
-        "url": "https://project-2-quiz-generator.herokuapp.com/"
-      },
-      {
         "title": "Hacker News",
         "category": "Search and view articles from the Hacker News API.",
         "image": "hacker_news.png",
-        "url": "https://ioannis-sporidis.github.io/hacker_news/"
+        "url": "https://ioannis-sporidis.github.io/ra-hacker-news/"
       }
     ],
     "components": [
